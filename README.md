@@ -1,2 +1,4 @@
-# crud-laravel
-CRUD (Create, Read, Update and Delete) with the Laravel
+# CRUD with Laravel
+
+## Abstract
+This project aims to put my Laravel studies into pratice.
